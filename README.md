@@ -1,43 +1,5 @@
 # Adoptera ett husdjur
 
-## Description
-Welcome to the "Adoptera ett husdjur" project! This project, related to the course "webbserverprogrammering 1", was built using the "Flask" framework. This is the first project and it's intended to utilize practices in preparation for this project by getting familiarity with the following concepts:
-
-
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Acknowledgement](#acknowledgment)
-- [License](#license)
-
-
-
-## Features
-- Browse through a wide variety of pets available for adoption
-- Filter pets based on species, age, and location
-- View detailed information about each pet, including their biography and adoption requirements
-- Contact the pet owner or adoption agency directly for more information or to arrange a meeting
-
-## Getting Started
-To get started with the project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/Adoptera-ett-Husdjur.git`
-2. Install the necessary dependencies: `npm install`
-3. Start the development server: `npm start`
-4. Open your browser and navigate to `http://localhost:3000` to view the application
-
-
-
-## Description
-Welcome to the "Adoptera ett husdjur" project! This project, related to the course "webbserverprogrammering 1", was built using the "Flask" framework. This is the first project and it's intended to utilize practices in preparation for this project by getting familiarity with the following concepts:
-
-
-
-
-# Adoptera ett husdjur
-
 Welcome to the "Adoptera ett husdjur" project! This project, related to the course "webbserverprogrammering 1", was built using the "Flask" framework. This is the first project and it's intended to utilize practices in preparation for this project by getting familiarity with the following concepts:
 
 ## Table of Contents
@@ -85,7 +47,7 @@ yourpackage.do_something()
 This project is licensed under the [MIT License](LICENSE).
 
 
-This project is licensed under [your_license](./LICENSE). For more details, see the `LICENSE` file.
+This project is licensed under [MIT](LICENSE). For more details, see the `LICENSE` file.
 
 ## Contact
 
