@@ -51,9 +51,9 @@ This project is licensed under [MIT](LICENSE). For more details, see the `LICENS
 
 ## Contact
 
-Your Name - [LinkedIn](https://www.linkedin.com/in/your linkedin/) - Replace with your contact information
+Noowa Eklund - [noowa.eklund@elev.ga.ntig.se](noowa.eklund@elev.ga.ntig.se) 
 
-Project Link: [https://github.com/yourusername/yourprojectname](https://github.com/yourusername/yourprojectname)
+Project Link: [https://github.com/noowaeklund/Adoptera-ett-Husdjur](https://github.com/noowaeklund/Adoptera-ett-Husdjur)
 
 ## Acknowledgments
 
