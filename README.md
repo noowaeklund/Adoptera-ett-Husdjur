@@ -43,10 +43,6 @@ yourpackage.do_something()
 
 ## License
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-
 This project is licensed under [MIT](LICENSE). For more details, see the `LICENSE` file.
 
 ## Contact
