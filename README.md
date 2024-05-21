@@ -17,7 +17,9 @@ To install the project locally, follow these steps:
 
 ```bash
 git clone https://github.com/noowaeklund/Adoptera-ett-husdjur.git
+
 cd Adoptera-ett-husdjur
+
 # Install necessary dependencies
 pip install -r requirements.txt
 ```
@@ -56,6 +58,4 @@ For any questions or suggestions, please contact:
 
 A big thanks to [Simon Alriksson](https://github.com/Simon-nti-it21) for collaboration and support.
 
----
 
-By following these guidelines, the README provides clear, structured, and detailed information, ensuring ease of use and understanding for any developer or user interested in the "Adoptera ett Husdjur" project.
