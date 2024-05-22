@@ -1,5 +1,6 @@
 pets = {
-    'dogs': [{
+    'dogs': [
+        {
         'name':
         'Spot',
         'age':

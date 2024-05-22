@@ -5,7 +5,6 @@ import helper
 app = Flask(__name__)
 
 
-@app.route('/animals')
 @app.route('/')
 def index():
   """Returns the HTML content for the index page.
